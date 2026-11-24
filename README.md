@@ -5,7 +5,7 @@ My portfolio for the MSc Cyber Security at the University of Kent. Each folder h
 ## Contents
 
 - [Topics](#topics)
-- [How each topic is organised](#how-each-topic-is-organised- [Security habits](#security-habits)
+- [How each topic is organised](#how-each-topic-is-organised)
 
 ## Modules
 
