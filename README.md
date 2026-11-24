@@ -11,13 +11,13 @@ My Portfolio from my MSc Cyber Security at the University of Kent. Each folder c
 
 | # | Folder | Module | Type | Project idea |
 |---|--------|--------|------|--------------|
-| 1 | `01-cryptography-systems-security` | Cryptography & Systems Security | Core | Classic cipher and a script that breaks it |
-| 2 | `02-network-security` | Network Security | Core | Home lab with firewall rules and IDS alerts |
-| 3 | `03-information-security-management` | Information Security Management | Core | Risk register for a fictional company |
-| 4 | `04-privacy-cyber-law` | Privacy & Cyber Law | Core | Privacy impact assessment template |
-| 5 | `05-ai-cyber-security` | Artificial Intelligence and Cyber Security | Core | Phishing classifier with evaluation |
-| 6 | `06-ethical-hacking` | Ethical Hacking | Option | Lab and CTF write-ups |
-| 7 | `07-dissertation` | Project & Dissertation | Core | [Your dissertation title] |
+| 1 | `01-cryptography-systems-security` | Cryptography & Systems Security | Core | Example 1 |
+| 2 | `02-network-security` | Network Security | Core | Example 2 |
+| 3 | `03-information-security-management` | Information Security Management | Core | Example 3 |
+| 4 | `04-privacy-cyber-law` | Privacy & Cyber Law | Core | Example 4 |
+| 5 | `05-ai-cyber-security` | Artificial Intelligence and Cyber Security | Core | Example 5 |
+| 6 | `06-ethical-hacking` | Ethical Hacking | Option | Example 6 |
+| 7 | `07-dissertation` | Project & Dissertation | Core | Example 7 |
 
 ## How each module folder is organised
 
