@@ -1,4 +1,4 @@
-My portfolio for the MSc Cyber Security at the University of Kent. Each folder holds projects, notes and write-ups inspired by one module, plus my dissertation.
+My Portfolio from my MSc Cyber Security at the University of Kent. Each folder covers one subject area, with my reflections on what I learned.
 
 **Brandon Swann** | [LinkedIn](https://www.linkedin.com/in/brandon-s-1b0494241/) | [Email me](mailto:bswann123@hotmail.com)
 
