@@ -24,18 +24,19 @@ My Portfolio from my MSc Cyber Security at the University of Kent. Each folder c
 **Project modules**
 
 ```text
-01-cryptography-systems-security/
+cryptography-systems-security/
 ├── README.md    what the module is about and what will be covered in the writeup.
 ├── src/         code and scripts (if applicable)
-├── docs/        what I built, what I learnt and what could be done better
+├── Essay 1.md   what I learnt, how my view changed, what I would do differently
 ```
 
 **Written modules**
 
 ```text
-04-privacy-cyber-law/
+privacy-cyber-law/
 ├── README.md    what each document covers and who it is for
-└── docs/        what I built, what I learnt and what could be done better
+├── Essay 1.md   what I learnt, how my view changed, what I would do differently
+└── Essay 2.md   same structure for the next reflection
 ```
 
 ### Written work is published as Markdown so it displays directly on GitHub.
