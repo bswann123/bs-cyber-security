@@ -5,7 +5,7 @@ My Portfolio from my MSc Cyber Security at the University of Kent. Each folder c
 ## Contents
 
 - [Modules](#Modules)
-- [How each module is organised](#How-each-folder-is-organised)
+- [How each module is organised](#how-each-module-folder-is-organised)
 
 ## Modules
 
