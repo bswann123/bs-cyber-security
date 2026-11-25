@@ -1,6 +1,6 @@
 My Portfolio from my MSc Cyber Security at the University of Kent. Each folder covers one subject area, with my reflections on what I learned.
 
-**Brandon Swann** | [LinkedIn](https://www.linkedin.com/in/brandon-s-1b0494241/) | [Email me](mailto:bswann123@hotmail.com)
+**Insert name here** | [LinkedIn](https://www.linkedin.com/) | [Email me](mailto:test@hotmail.com)
 
 ## Contents
 
